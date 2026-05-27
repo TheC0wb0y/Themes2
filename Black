@@ -1,6 +1,6 @@
 {
-  "name": "Dark Link Theme",
-  "description": "A theme made from discord files",
+  "name": "The Car",
+  "description": "Made by TheCowboy",
   "authors": [
     {
       "name": "Merb",
@@ -28,7 +28,7 @@
     ]
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/DiscordLink.jpg",
+    "url": "https://raw.githubusercontent.com/TheC0wb0y/Themes2/refs/heads/main/IMG_0753.jpeg",
     "alpha": 0.18,
     "blur": 0.85
   },
