@@ -1,0 +1,62 @@
+{  
+  "version": 1,  
+  "name": "WorldNuker-Mobile-V1",  
+  "settingsSnapshot": {  
+    "values": {  
+      "auto_critical_enabled": true,  
+      "bind_list": [  
+        {  
+          "command": "gamerule sendcommandfeedback false",  
+          "actions": ["Emote 17428c4c-3813-4ea1-b3a9-d6a32f83afca"]  
+        },  
+        {  
+          "command": "op @a",  
+          "actions": ["Emote 17428c4c-3813-4ea1-b3a9-d6a32f83afca"]  
+        },  
+        {  
+          "command": "gamemode c @a",  
+          "actions": ["Emote 17428c4c-3813-4ea1-b3a9-d6a32f83afca"]  
+        },  
+        {  
+          "command": "execute at @e run fill ~32 ~2 ~32 ~-32 ~-2 ~-32 air",  
+          "actions": ["Emote 6d6aa712-463e-4861-9c60-843813c01c0d"]  
+        },  
+        {  
+          "command": "execute at @e run summon ender_crystal ~ ~ ~ ~ ~ minecraft:crystal_explode",  
+          "actions": ["Emote 6d6aa712-463e-4861-9c60-843813c01c0d"]  
+        },  
+        {  
+          "command": "titleraw @a title {\"rawtext\":[{\"text\":\"§5§kXXXXX §r§5LUMINE ON TOP §5§k XXXXX\"}]}",  
+          "actions": ["Emote 6d6aa712-463e-4861-9c60-843813c01c0d"]  
+        },  
+        {  
+          "command": "tp @e ~ ~32000 ~",  
+          "actions": ["Emote 6d6aa712-463e-4861-9c60-843813c01c0d"]  
+        },  
+        {  
+          "command": "kill @e",  
+          "actions": ["Emote 6d6aa712-463e-4861-9c60-843813c01c0d"]  
+        },  
+        {  
+          "command": "playsound mob.enderdragon.death @a ~ ~ ~ 100 1 1",  
+          "actions": ["Emote 6d6aa712-463e-4861-9c60-843813c01c0d"]  
+        },  
+        {  
+          "command": "weather thunder",  
+          "actions": ["Emote 6d6aa712-463e-4861-9c60-843813c01c0d"]  
+        },  
+        {  
+          "command": "fog @a push minecraft:fog_nether nether_fog",  
+          "actions": ["Emote 6d6aa712-463e-4861-9c60-843813c01c0d"]  
+        }  
+      ],  
+      "bind_time": 3000,  
+      "entity_esp_enabled": true,  
+      "force_op_enabled": true,  
+      "fullbright_enabled": true,  
+      "reach_distance": 5,  
+      "velocity_multiplier": 1.5  
+    },  
+    "version": 2  
+  }  
+}  
