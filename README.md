@@ -1,2 +1,2 @@
-# Themes2
-Most of these themes are made by me 
+# Discord Client Themes
+All of these themes are made by TheCowboy 
