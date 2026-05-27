@@ -1,0 +1,82 @@
+{
+  "name": "The Pope",
+  "description": "A theme made from discord files",
+  "authors": [
+    {
+      "name": "TheCowboy",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": [
+      "#c07d3a33"
+    ],
+    "MENTION_BACKGROUND": [
+      "#8f5a1f"
+    ],
+    "TEXT_MENTION": [
+      "#e8bf7a"
+    ],
+    "TEXT_DEFAULT": [
+      "#fffaf0"
+    ],
+    "INPUT_BACKGROUND": [
+      "#2b241a",
+      "#30281d",
+      "#2b241a"
+    ]
+  },
+  "background": {
+    "url": "https://files.catbox.moe/9s5fpe.png",
+    "alpha": 0.2,
+    "blur": 0.9
+  },
+  "rawColors": {
+    "PLUM 11": "#18120b",
+    "PLUM_13": "#22180f",
+    "PLUM_15": "#2e2114",
+    "PLUM_16": "#3a2a17",
+    "PLUM_17": "#4a3520",
+    "PLUM_18": "#5b4128",
+    "PLUM_19": "#715235",
+    "PLUM_20": "#8a6341",
+    "PLUM_22": "#b08559",
+    "PRIMARY_700": "#18120b",
+    "PRIMARY_230": "#24180f",
+    "PRIMARY_300": "#3a2817",
+    "YELLOW_260": "#d8a55e",
+    "PLUM_23": "#9b744a",
+    "PLUM_24": "#c9a878",
+    "YELLOW_300": "#f0c982",
+    "ORANGE_345": "#a86f2a"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": [
+        "#e8bf7a"
+      ],
+      "StatusStreaming": [
+        "#9b5cff"
+      ],
+      "StatusMobileOnline": [
+        "#2ed573"
+      ],
+      "StatusIdle": [
+        "#ffd166"
+      ],
+      "StatusDND": [
+        "#ff6b6b"
+      ],
+      "StatusOffline": [
+        "#6c7a89"
+      ],
+      "StatusOnline": [
+        "#2ed573"
+      ]
+    }
+  }
+}
+
