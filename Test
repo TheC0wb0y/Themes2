@@ -1,0 +1,32 @@
+/*
+ * Theme: The Pope
+ * Description: A theme made from discord files
+ * Author: TheCowboy (1180228592249090224)
+ */
+
+@import url("https://discord.com/assets/partials/client.css"); /* optional if your loader needs it */
+
+.appMount-2yBXZl::before {
+  content: "© TheCowboy";
+  position: fixed;
+  top: 10px;
+  right: 12px;
+  z-index: 9999;
+  color: #e8bf7a;
+  font-size: 11px;
+  font-weight: 600;
+  opacity: 0.75;
+  pointer-events: none;
+}
+
+/* Theme JSON-style variables as CSS variables (if your loader supports them) */
+:root {
+  --background-mentioned: #c07d3a33;
+  --mention-background: #8f5a1f;
+  --text-mention: #e8bf7a;
+  --text-default: #fffaf0;
+  --input-background: #2b241a, #30281d, #2b241a;
+  --background-url: url("https://raw.githubusercontent.com/TheC0wb0y/Discord-themes/refs/heads/main/IMG_0720.jpeg");
+  --background-alpha: 0.2;
+  --background-blur: 0.9;
+}
