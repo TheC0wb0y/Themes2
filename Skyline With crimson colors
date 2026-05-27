@@ -1,0 +1,83 @@
+
+https://files.catbox.moe/9s5fpe.png
+{
+  "name": "kitty",
+  "description": "A theme made from discord files",
+  "authors": [
+    {
+      "name": "TheCowboy",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": [
+      "#dc143c33"
+    ],
+    "MENTION_BACKGROUND": [
+      "#8b0000"
+    ],
+    "TEXT_MENTION": [
+      "#ff4d6d"
+    ],
+    "TEXT_DEFAULT": [
+      "#ffffff"
+    ],
+    "INPUT_BACKGROUND": [
+      "#2a0f14",
+      "#2f1117",
+      "#2a0f14"
+    ]
+  },
+  "background": {
+    "url": "https://files.catbox.moe/9s5fpe.png",
+    "alpha": 0.2,
+    "blur": 0.9
+  },
+  "rawColors": {
+    "PLUM 11": "#120508",
+    "PLUM_13": "#18070c",
+    "PLUM_15": "#1d090f",
+    "PLUM_16": "#220b12",
+    "PLUM_17": "#280d15",
+    "PLUM_18": "#2e0f18",
+    "PLUM_19": "#34111b",
+    "PLUM_20": "#3a131e",
+    "PLUM_22": "#421723",
+    "PRIMARY_700": "#120508",
+    "PRIMARY_230": "#1a070d",
+    "PRIMARY_300": "#260b13",
+    "YELLOW_260": "#dc143c",
+    "PLUM_23": "#38131c",
+    "PLUM_24": "#401520",
+    "YELLOW_300": "#ff174f",
+    "ORANGE_345": "#c1121f"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": [
+        "#ff4d6d"
+      ],
+      "StatusStreaming": [
+        "#9b5cff"
+      ],
+      "StatusMobileOnline": [
+        "#2ed573"
+      ],
+      "StatusIdle": [
+        "#ffd166"
+      ],
+      "StatusDND": [
+        "#ff6b6b"
+      ],
+      "StatusOffline": [
+        "#6c7a89"
+      ],
+      "StatusOnline": [
+        "#2ed573"
+      ]
+    }
+  }
+}
