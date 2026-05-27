@@ -1,2 +1,2 @@
 # Themes2
-More themes
+Most of these themes are made by me 
