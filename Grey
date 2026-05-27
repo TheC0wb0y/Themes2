@@ -1,0 +1,81 @@
+{
+  "name": "Dark Link Theme",
+  "description": "A theme made from discord files",
+  "authors": [
+    {
+      "name": "Merb",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": [
+      "#007bff33"
+    ],
+    "MENTION_BACKGROUND": [
+      "#0094ba"
+    ],
+    "TEXT_MENTION": [
+      "#0094ba"
+    ],
+    "TEXT_DEFAULT": [
+      "#ffffff"
+    ],
+    "INPUT_BACKGROUND": [
+      "#1a1a1a",
+      "#1f1f1f",
+      "#1a1a1a"
+    ]
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/DiscordLink.jpg",
+    "alpha": 0.2,
+    "blur": 0.9
+  },
+  "rawColors": {
+    "PLUM 11": "#0b0b0b",
+    "PLUM_13": "#121212",
+    "PLUM_15": "#141414",
+    "PLUM_16": "#161616",
+    "PLUM_17": "#181818",
+    "PLUM_18": "#1b1b1b",
+    "PLUM_19": "#202020",
+    "PLUM_20": "#242424",
+    "PLUM_22": "#2a2a2a",
+    "PRIMARY_700": "#0b0b0b",
+    "PRIMARY_230": "#151515",
+    "PRIMARY_300": "#1b1b1b",
+    "YELLOW_260": "#007bff",
+    "PLUM_23": "#202020",
+    "PLUM_24": "#262626",
+    "YELLOW_300": "#007bff",
+    "ORANGE_345": "#0094ba"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": [
+        "#e64553"
+      ],
+      "StatusStreaming": [
+        "#7e64fb"
+      ],
+      "StatusMobileOnline": [
+        "#09bd63"
+      ],
+      "StatusIdle": [
+        "#ffd401"
+      ],
+      "StatusDND": [
+        "#ff611a"
+      ],
+      "StatusOffline": [
+        "#015bd5"
+      ],
+      "StatusOnline": [
+        "#09bd63"
+      ]
+    }
+  }
+}
