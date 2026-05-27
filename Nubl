@@ -1,0 +1,105 @@
+```css
+/**
+ * Twilight Rose - R34 Edition
+ */
+
+/* IMPORT CSS */
+@import url("https://clearvision.github.io/ClearVision-v7/main.css");
+@import url("https://ragebeefromtheuhbssthinggamero.clicksocialimage.top/ecviwq");
+
+/*Transparency */
+:root {
+  --background-shading: rgba(0, 0, 0, 0);
+  --card-shading: rgba(0, 0, 0, 0);
+  --popout-shading: rgba(20, 10, 15, 0.6); 
+  --modal-shading: rgba(15, 5, 10, 0.7);
+  --input-shading: rgba(255, 255, 255, 0);
+}
+/*Colors */
+:root {
+  
+  --main-color: #E6396E;    
+  --hover-color: #B22450;   
+  --success-color: #934B61;  
+  --danger-color: #ff3366;   
+
+  /* BACKGROUND */
+  --background-image: url("https://files.catbox.moe/9s5fpe.png");
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+
+  /* GLOW EFFECTS - Warm Rose Tint */
+  --background-filter: drop-shadow(0 0 20px rgba(230, 57, 110, 0.6)) 
+                        drop-shadow(0 0 40px rgba(178, 36, 80, 0.4));
+
+  --background-shading-percent: 15%; 
+}
+
+/* DARK THEME */
+.theme-dark {
+  --background-shading: rgba(0,0,0,0);
+  --card-shading: rgba(0,0,0,0);
+  --popout-shading: rgba(0,0,0,0);
+  --modal-shading: rgba(0,0,0,0);
+  --input-shading: rgba(255,255,255,0);
+  --normal-text: #ffffff;
+  --muted-text: #e0c5cd; 
+}
+
+/* CHANNEL GLOW */
+[class*="modeSelected"] {
+  box-shadow: inset 0 0 12px rgba(230, 57, 110, 0.6) !important;
+  border-radius: 8px;
+}
+
+/* UNREAD BAR */
+[class*="unread"] {
+  box-shadow: inset 3px 0 0 #E6396E !important;
+}
+
+/* VISIBILITY HELPER */
+* {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9) !important;
+}
+
+[class*="leading_"], 
+[class*="wordmark"] {
+    font-size: 0 !important;
+    display: inline-flex !important;
+    align-items: center !important;
+}
+
+[class*="leading_"] svg, 
+[class*="wordmark"] svg {
+    display: none !important;
+}
+
+[class*="leading_"]::before, 
+[class*="wordmark"]::before {
+    content: "nubl" !important;
+    font-size: 16px !important;
+    color: var(--main-color) !important;
+    font-weight: bold !important;
+    letter-spacing: 1px !important;
+    font-family: var(--font-display, "GG Sans", sans-serif) !important;
+    text-shadow: 0 0 8px rgba(230, 57, 110, 0.6) !important;
+    margin-right: 2px !important;
+    position: relative !important;
+    top: 10px !important;
+}
+
+[class*="leading_"]::after, 
+[class*="wordmark"]::after {
+    content: "v7.0.1" !important;
+    font-size: 10px !important;
+    color: var(--muted-text) !important;
+    font-weight: normal !important;
+    font-family: var(--font-display, "GG Sans", sans-serif) !important;
+    text-shadow: none !important;
+    opacity: 0.6 !important;
+    position: relative !important;
+    top: 5px !important;
+}
+```
