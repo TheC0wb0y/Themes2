@@ -1,0 +1,81 @@
+{
+  "name": "Dark Link Theme",
+  "description": "A theme made from discord files",
+  "authors": [
+    {
+      "name": "Merb",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": [
+      "#007bff33"
+    ],
+    "MENTION_BACKGROUND": [
+      "#0094ba"
+    ],
+    "TEXT_MENTION": [
+      "#0094ba"
+    ],
+    "TEXT_DEFAULT": [
+      "#ffffff"
+    ],
+    "INPUT_BACKGROUND": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ]
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/TheC0wb0y/Themes2/refs/heads/main/IMG_0598.jpeg",
+    "alpha": 0,
+    "blur": 0
+  },
+  "rawColors": {
+    "PLUM 11": "#000000",
+    "PLUM_13": "#000000",
+    "PLUM_15": "#000000",
+    "PLUM_16": "#000000",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_230": "#000000",
+    "PRIMARY_300": "#000000",
+    "YELLOW_260": "#007bff",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#000000",
+    "YELLOW_300": "#007bff",
+    "ORANGE_345": "#0094ba"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": [
+        "#e64553"
+      ],
+      "StatusStreaming": [
+        "#7e64fb"
+      ],
+      "StatusMobileOnline": [
+        "#09bd63"
+      ],
+      "StatusIdle": [
+        "#ffd401"
+      ],
+      "StatusDND": [
+        "#ff611a"
+      ],
+      "StatusOffline": [
+        "#015bd5"
+      ],
+      "StatusOnline": [
+        "#09bd63"
+      ]
+    }
+  }
+}
