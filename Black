@@ -22,32 +22,32 @@
       "#ffffff"
     ],
     "INPUT_BACKGROUND": [
-      "#000000",
-      "#000000",
-      "#000000"
+      "#1a1a1a",
+      "#202020",
+      "#2a2a2a"
     ]
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/TheC0wb0y/Themes2/refs/heads/main/IMG_0598.jpeg",
-    "alpha": 0,
-    "blur": 0
+    "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/DiscordLink.jpg",
+    "alpha": 0.18,
+    "blur": 0.85
   },
   "rawColors": {
     "PLUM 11": "#000000",
-    "PLUM_13": "#000000",
-    "PLUM_15": "#000000",
-    "PLUM_16": "#000000",
-    "PLUM_17": "#000000",
-    "PLUM_18": "#000000",
-    "PLUM_19": "#000000",
-    "PLUM_20": "#000000",
-    "PLUM_22": "#000000",
+    "PLUM_13": "#050505",
+    "PLUM_15": "#0a0a0a",
+    "PLUM_16": "#111111",
+    "PLUM_17": "#171717",
+    "PLUM_18": "#1d1d1d",
+    "PLUM_19": "#242424",
+    "PLUM_20": "#2b2b2b",
+    "PLUM_22": "#323232",
     "PRIMARY_700": "#000000",
-    "PRIMARY_230": "#000000",
-    "PRIMARY_300": "#000000",
+    "PRIMARY_230": "#141414",
+    "PRIMARY_300": "#1b1b1b",
     "YELLOW_260": "#007bff",
-    "PLUM_23": "#000000",
-    "PLUM_24": "#000000",
+    "PLUM_23": "#373737",
+    "PLUM_24": "#3d3d3d",
     "YELLOW_300": "#007bff",
     "ORANGE_345": "#0094ba"
   },
