@@ -10,21 +10,21 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_MENTIONED": [
-      "#000000"
+      "#DC143C"
     ],
     "MENTION_BACKGROUND": [
-      "#000000"
+      "#DC143C"
     ],
     "TEXT_MENTION": [
-      "#000000"
+      "#DC143C"
     ],
     "TEXT_DEFAULT": [
-      "#000000"
+      "#DC143C"
     ],
     "INPUT_BACKGROUND": [
-      "#000000",
-      "#000000",
-      "#000000"
+      "#DC143C",
+      "#DC143C",
+      "#DC143C"
     ]
   },
   "background": {
@@ -33,48 +33,48 @@
     "blur": 0.9
   },
   "rawColors": {
-    "PLUM 11": "#000000",
-    "PLUM_13": "#000000",
-    "PLUM_15": "#000000",
-    "PLUM_16": "#000000",
-    "PLUM_17": "#000000",
-    "PLUM_18": "#000000",
-    "PLUM_19": "#000000",
-    "PLUM_20": "#000000",
-    "PLUM_22": "#000000",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_230": "#000000",
-    "PRIMARY_300": "#000000",
-    "YELLOW_260": "#000000",
-    "PLUM_23": "#000000",
-    "PLUM_24": "#000000",
-    "YELLOW_300": "#000000",
-    "ORANGE_345": "#000000"
+    "PLUM 11": "#DC143C",
+    "PLUM_13": "#DC143C",
+    "PLUM_15": "#DC143C",
+    "PLUM_16": "#DC143C",
+    "PLUM_17": "#DC143C",
+    "PLUM_18": "#DC143C",
+    "PLUM_19": "#DC143C",
+    "PLUM_20": "#DC143C",
+    "PLUM_22": "#DC143C",
+    "PRIMARY_700": "#DC143C",
+    "PRIMARY_230": "#DC143C",
+    "PRIMARY_300": "#DC143C",
+    "YELLOW_260": "#DC143C",
+    "PLUM_23": "#DC143C",
+    "PLUM_24": "#DC143C",
+    "YELLOW_300": "#DC143C",
+    "ORANGE_345": "#DC143C"
   },
   "plus": {
     "version": "0",
     "iconpack": "rosiecord-plumpy",
     "icons": {
       "ic_new_pins": [
-        "#000000"
+        "#DC143C"
       ],
       "StatusStreaming": [
-        "#000000"
+        "#DC143C"
       ],
       "StatusMobileOnline": [
-        "#000000"
+        "#DC143C"
       ],
       "StatusIdle": [
-        "#000000"
+        "#DC143C"
       ],
       "StatusDND": [
-        "#000000"
+        "#DC143C"
       ],
       "StatusOffline": [
-        "#000000"
+        "#DC143C"
       ],
       "StatusOnline": [
-        "#000000"
+        "#DC143C"
       ]
     }
   }
