@@ -1,0 +1,18 @@
+{
+  "name": "Comic Sans MS",
+  "description": "A font made from discord files",
+  "authors": [
+    {
+      "name": "TheCowboy",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "TEXT_MENTION": ["#FF0000"],
+    "TEXT_DEFAULT": ["#FF0000"]
+  },
+  "rawFonts": {
+    "fontFamily": "\"Comic Sans MS\", \"Chalkboard SE\", sans-serif"
+  }
+}
