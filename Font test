@@ -1,18 +1,18 @@
 {
-  "name": "Comic Sans MS",
-  "description": "A font made from discord files",
-  "authors": [
-    {
-      "name": "TheCowboy",
-      "id": "1180228592249090224"
-    }
-  ],
-  "spec": 2,
-  "semanticColors": {
-    "TEXT_MENTION": ["#FF0000"],
-    "TEXT_DEFAULT": ["#FF0000"]
-  },
-  "rawFonts": {
-    "fontFamily": "\"Comic Sans MS\", \"Chalkboard SE\", sans-serif"
+  "font": {
+    "name": "Comic Sans MS",
+    "family": "Comic Sans MS, Chalkboard SE, sans-serif",
+    "style": "regular",
+    "weight": 400,
+    "format": "TTF",
+    "url": "https://www.fontmirror.com/comic-sans-ms",
+    "download": "https://www.fontmirror.com/comic-sans-ms",
+    "license": "Pre-installed with Windows (Microsoft)",
+    "alternateFonts": [
+      "Comic Sans MS",
+      "Chalkboard SE",
+      "Comic Neue",
+      "Marker Felt"
+    ]
   }
 }
