@@ -1,0 +1,81 @@
+{
+  "name": "Jesus",
+  "description": "A theme made from discord files",
+  "authors": [
+    {
+      "name": "TheCowboy",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": [
+      "#000000"
+    ],
+    "MENTION_BACKGROUND": [
+      "#000000"
+    ],
+    "TEXT_MENTION": [
+      "#000000"
+    ],
+    "TEXT_DEFAULT": [
+      "#000000"
+    ],
+    "INPUT_BACKGROUND": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ]
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/TheC0wb0y/Theme/refs/heads/main/IMG_0761.jpeg?token=GHSAT0AAAAAAD6LAVPNMTAOP6KEELZE4IEQ2QXRKYA",
+    "alpha": 0.2,
+    "blur": 0.9
+  },
+  "rawColors": {
+    "PLUM 11": "#000000",
+    "PLUM_13": "#000000",
+    "PLUM_15": "#000000",
+    "PLUM_16": "#000000",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_230": "#000000",
+    "PRIMARY_300": "#000000",
+    "YELLOW_260": "#000000",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#000000",
+    "YELLOW_300": "#000000",
+    "ORANGE_345": "#000000"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": [
+        "#000000"
+      ],
+      "StatusStreaming": [
+        "#000000"
+      ],
+      "StatusMobileOnline": [
+        "#000000"
+      ],
+      "StatusIdle": [
+        "#000000"
+      ],
+      "StatusDND": [
+        "#000000"
+      ],
+      "StatusOffline": [
+        "#000000"
+      ],
+      "StatusOnline": [
+        "#000000"
+      ]
+    }
+  }
+}
