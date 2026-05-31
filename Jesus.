@@ -1,3 +1,4 @@
+```json
 {
   "name": "Jesus",
   "description": "A theme made from discord files",
@@ -33,7 +34,7 @@
     "blur": 0.9
   },
   "rawColors": {
-    "PLUM 11": "#000000",
+    "PLUM_11": "#000000",
     "PLUM_13": "#000000",
     "PLUM_15": "#000000",
     "PLUM_16": "#000000",
@@ -43,39 +44,35 @@
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
     "PRIMARY_700": "#000000",
-    "PRIMARY_230": "#000000",
-    "PRIMARY_300": "#000000",
-    "YELLOW_260": "#000000",
     "PLUM_23": "#000000",
-    "PLUM_24": "#000000",
-    "YELLOW_300": "#000000",
-    "ORANGE_345": "#000000"
+    "PLUM_24": "#000000"
   },
   "plus": {
     "version": "0",
     "iconpack": "rosiecord-plumpy",
     "icons": {
       "ic_new_pins": [
-        "#000000"
+        "#FF0000"
       ],
       "StatusStreaming": [
-        "#000000"
+        "#593695"
       ],
       "StatusMobileOnline": [
-        "#000000"
+        "#23A55A"
       ],
       "StatusIdle": [
-        "#000000"
+        "#F0B232"
       ],
       "StatusDND": [
-        "#000000"
+        "#F23F43"
       ],
       "StatusOffline": [
-        "#000000"
+        "#80848E"
       ],
       "StatusOnline": [
-        "#000000"
+        "#23A55A"
       ]
     }
   }
 }
+```
